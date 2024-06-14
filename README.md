@@ -1,1 +1,2 @@
 # EGATOR-Education-Website
+Developed a responsive, multipage educational website utilizing HTML, CSS, and JavaScript to ensure seamless navigation and interactive features. Implemented modern design principles for optimal user experience across devices, enhancing accessibility and usability. The project aimed to provide a comprehensive educational platform with intuitive interfaces and responsive layouts, fostering engagement and learning.
